@@ -1,0 +1,40 @@
+nav{
+    background-color:aliceblue;
+    border-radius: 20px;
+}
+
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 20px;
+}
+
+body{
+    background-color:black;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-content: start;
+}
+
+h1{
+    font-size: 50px;
+    color:rgb(164, 177, 187);
+}
+
+p{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+img{
+    height: 300px;
+    width: 400px;
+}
